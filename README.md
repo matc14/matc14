@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning C# and TypeScript
 - 🏫 I’m currently studying at University of Białystok
